@@ -44,7 +44,7 @@ html, body {
   font-size: 0.8em;
   line-height: 1.55;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 500px;
   padding-top: 150px;
   width: 100%;
 }
@@ -61,7 +61,7 @@ html, body {
 
 .offline .runner-canvas {
   height: 150px;
-  max-width: 600px;
+  max-width: 500px;
   opacity: 1;
   overflow: hidden;
   position: absolute;
