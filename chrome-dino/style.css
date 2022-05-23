@@ -52,7 +52,7 @@ html, body {
 .offline .runner-container {
   direction: ltr;
   height: 150px;
-  max-width: 600px;
+  max-width: 500px;
   overflow: hidden;
   position: absolute;
   top: 35px;
