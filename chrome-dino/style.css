@@ -170,7 +170,7 @@ html, body {
   }
 }
 
-@media (min-width: 500px) and (max-width: 736px) and (orientation: landscape) {
+@media (min-width: 600px) and (max-width: 736px) and (orientation: landscape) {
   .offline .interstitial-wrapper {
     margin-left: 0;
     margin-right: 0;
