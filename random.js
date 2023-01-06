@@ -226,6 +226,12 @@ images[72]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[73]="https://bit.ly/3FQnpNu"
 images[73]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/9c42c71ec452c93b223ee7c861027b37.jfif"
 
+urls[74]="https://bit.ly/3FQnpNu"
+images[74]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/f6f9830c9be93f3688e65b6cf9b38fb6.jfif"
+
+urls[75]="https://bit.ly/3FQnpNu"
+images[75]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/78f9c7b158f42e258c6efe54a8c3eda2.jfif"
+
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
 var randomgame3=Math.floor(Math.random()*totallinks)
