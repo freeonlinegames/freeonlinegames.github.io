@@ -329,10 +329,10 @@ urls[0]="https://bit.ly/3FQnpNu"
 images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/147dacfa1be41d00cf2085f15c6a59c1.png"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/585a0d4ec3e9a84d5c37e89f7d1b0bf7.png"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a28b06f97691611d4e1c3336e83f5572.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
 images[0]="XXXXX"
