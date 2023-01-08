@@ -335,16 +335,16 @@ urls[0]="https://bit.ly/3FQnpNu"
 images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a28b06f97691611d4e1c3336e83f5572.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/d47ad0c692afae521da87a4c36423d7d.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/ee014e40ed712bf03b1eff84e85030e2.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/acb754189d8bfd3a1e0e544e4e67e803.png"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/39a5c21f3358ab2efe605d2101813edd.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
 images[0]="XXXXX"
