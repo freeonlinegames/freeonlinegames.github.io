@@ -218,133 +218,112 @@ urls[69]="https://bit.ly/3FQnpNu"
 images[69]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/88c12b7deb5ca67c198d4392a216c42d.jfif"
 
 urls[70]="https://bit.ly/3FQnpNu"
-images[70]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/ea48f6c40f794265b1d201dfa614b6d2.jfif"
+images[70]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/032107eea081a5c1277a1d0c0e395fb0.png"
 
 urls[71]="https://bit.ly/3FQnpNu"
-images[72]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/032107eea081a5c1277a1d0c0e395fb0.png"
+images[71]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/9c42c71ec452c93b223ee7c861027b37.jfif"
+
+urls[72]="https://bit.ly/3FQnpNu"
+images[72]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/f6f9830c9be93f3688e65b6cf9b38fb6.jfif"
 
 urls[73]="https://bit.ly/3FQnpNu"
-images[73]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/9c42c71ec452c93b223ee7c861027b37.jfif"
+images[73]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/78f9c7b158f42e258c6efe54a8c3eda2.jfif"
 
 urls[74]="https://bit.ly/3FQnpNu"
-images[74]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/f6f9830c9be93f3688e65b6cf9b38fb6.jfif"
+images[74]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/6a678f057138ff4a928a5a9193dbfe43.jfif"
 
 urls[75]="https://bit.ly/3FQnpNu"
-images[75]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/78f9c7b158f42e258c6efe54a8c3eda2.jfif"
+images[75]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/46736308ca69fd787d53e85f39004ce0.png"
 
 urls[76]="https://bit.ly/3FQnpNu"
-images[76]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/6a678f057138ff4a928a5a9193dbfe43.jfif"
+images[76]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/effbd2fc36b952d7009fa5bdace24a70.jfif"
 
 urls[77]="https://bit.ly/3FQnpNu"
-images[77]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/46736308ca69fd787d53e85f39004ce0.png"
+images[77]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/838e8ac679475eb8628a59a6e7c3876d.jfif"
 
 urls[78]="https://bit.ly/3FQnpNu"
-images[78]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/47bc496c3b9a8b0ba17ecb97ff2d9178.jfif"
+images[78]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/0fb8f0705d39889daebf3f7d5fe85380.jfif"
 
 urls[79]="https://bit.ly/3FQnpNu"
-images[79]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/54194aa8e390f7f209c99e5ad4927a6b.jfif"
+images[79]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/50f422ef01306425d4afdb39fb5f3709.jfif"
 
 urls[80]="https://bit.ly/3FQnpNu"
-images[80]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/70bfdc70143f8ad956b58766563722b7.jfif"
+images[80]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/e0ec464609f77ded19aa2541a4ac11f9.jfif"
 
 urls[81]="https://bit.ly/3FQnpNu"
-images[81]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/effbd2fc36b952d7009fa5bdace24a70.jfif"
+images[81]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/495a3826262b1d1077ccb25095cad6c1.jfif"
 
 urls[82]="https://bit.ly/3FQnpNu"
-images[82]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/838e8ac679475eb8628a59a6e7c3876d.jfif"
+images[82]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/dc8bfa481f328349c47c6aefed9146ec.jfif"
 
 urls[83]="https://bit.ly/3FQnpNu"
-images[83]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/0fb8f0705d39889daebf3f7d5fe85380.jfif"
+images[83]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/aaccaf4a9d32d1e9dd9f7efb0e4b763f.png"
 
 urls[84]="https://bit.ly/3FQnpNu"
-images[84]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/50f422ef01306425d4afdb39fb5f3709.jfif"
+images[84]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a288eab44a75f30ebbd2fab2d8f5f1ba.png"
 
 urls[85]="https://bit.ly/3FQnpNu"
-images[85]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/e0ec464609f77ded19aa2541a4ac11f9.jfif"
+images[85]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/295250063c957da4e5d0e84fd38c6948.jfif"
 
 urls[86]="https://bit.ly/3FQnpNu"
-images[86]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/495a3826262b1d1077ccb25095cad6c1.jfif"
-
-urls[87]="https://bit.ly/3FQnpNu"
-images[87]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/dc8bfa481f328349c47c6aefed9146ec.jfif"
+images[87]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/fe33e87a338635e228a5fd789e5ca16e.jfif"
 
 urls[88]="https://bit.ly/3FQnpNu"
-images[88]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/aaccaf4a9d32d1e9dd9f7efb0e4b763f.png"
+images[88]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/7b44fab39703e195c7a5ba66b64a5b05.jfif"
 
 urls[89]="https://bit.ly/3FQnpNu"
-images[89]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a288eab44a75f30ebbd2fab2d8f5f1ba.png"
+images[89]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/3bc17f1ee1f65176ecd0d67fbf2d5ff7.jfif"
 
 urls[90]="https://bit.ly/3FQnpNu"
-images[90]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/295250063c957da4e5d0e84fd38c6948.jfif"
+images[90]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/866dab9c112d76673e39957cba68604c.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/fe33e87a338635e228a5fd789e5ca16e.jfif"
+urls[91]="https://bit.ly/3FQnpNu"
+images[91]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/4bf601febc38ace11514995332ceabb1.png"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/7b44fab39703e195c7a5ba66b64a5b05.jfif"
+urls[92]="https://bit.ly/3FQnpNu"
+images[92]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/f3751d6556686196092f9e96de441f22.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/ad02d80224b2cb6483a6274b534d713e.jfif"
+urls[93]="https://bit.ly/3FQnpNu"
+images[93]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/794e1b099a1081c5247d526c03ddaacd.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/3bc17f1ee1f65176ecd0d67fbf2d5ff7.jfif"
+urls[94]="https://bit.ly/3FQnpNu"
+images[94]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/e2dbcb791852da62447771c3429bf4d0.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/866dab9c112d76673e39957cba68604c.jfif"
+urls[95]="https://bit.ly/3FQnpNu"
+images[95]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/223bb0d4abeb5ca1e14b9d9d5444180f.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/4bf601febc38ace11514995332ceabb1.png"
+urls[96]="https://bit.ly/3FQnpNu"
+images[96]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/5feb01f6474a6d5320583856b976430c.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/0b1e677c02a726763c044dfc2ad6e9fc.png"
+urls[97]="https://bit.ly/3FQnpNu"
+images[97]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/0db34f7f655be81e592ed4a84dbd8580.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/806d700a19445959723fda1a6dc8dbc7.png"
+urls[98]="https://bit.ly/3FQnpNu"
+images[98]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/867eb7da279dc1ffde18879d8964bd1b.png"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/f3751d6556686196092f9e96de441f22.jfif"
+urls[99]="https://bit.ly/3FQnpNu"
+images[99]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/80f52916ec72d5a9814ad3c6617f33f4.png"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/794e1b099a1081c5247d526c03ddaacd.jfif"
+urls[100]="https://bit.ly/3FQnpNu"
+images[100]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/147dacfa1be41d00cf2085f15c6a59c1.png"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/e2dbcb791852da62447771c3429bf4d0.jfif"
+urls[101]="https://bit.ly/3FQnpNu"
+images[101]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/585a0d4ec3e9a84d5c37e89f7d1b0bf7.png"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/223bb0d4abeb5ca1e14b9d9d5444180f.jfif"
+urls[102]="https://bit.ly/3FQnpNu"
+images[102]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a28b06f97691611d4e1c3336e83f5572.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/5feb01f6474a6d5320583856b976430c.jfif"
+urls[103]="https://bit.ly/3FQnpNu"
+images[103]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/d47ad0c692afae521da87a4c36423d7d.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/0db34f7f655be81e592ed4a84dbd8580.jfif"
+urls[104]="https://bit.ly/3FQnpNu"
+images[104]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/ee014e40ed712bf03b1eff84e85030e2.jfif"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/867eb7da279dc1ffde18879d8964bd1b.png"
+urls[105]="https://bit.ly/3FQnpNu"
+images[105]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/acb754189d8bfd3a1e0e544e4e67e803.png"
 
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/80f52916ec72d5a9814ad3c6617f33f4.png"
-
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/147dacfa1be41d00cf2085f15c6a59c1.png"
-
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/585a0d4ec3e9a84d5c37e89f7d1b0bf7.png"
-
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a28b06f97691611d4e1c3336e83f5572.jfif"
-
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/d47ad0c692afae521da87a4c36423d7d.jfif"
-
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/ee014e40ed712bf03b1eff84e85030e2.jfif"
-
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/acb754189d8bfd3a1e0e544e4e67e803.png"
-
-urls[0]="https://bit.ly/3FQnpNu"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/39a5c21f3358ab2efe605d2101813edd.jfif"
+urls[106]="https://bit.ly/3FQnpNu"
+images[106]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/39a5c21f3358ab2efe605d2101813edd.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
 images[0]="XXXXX"
