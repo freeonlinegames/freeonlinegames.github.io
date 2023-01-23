@@ -326,7 +326,7 @@ urls[106]="https://bit.ly/3FQnpNu"
 images[106]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/39a5c21f3358ab2efe605d2101813edd.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/79a3d286fbd540f1f746bbafeea12603.png"
 
 urls[0]="https://bit.ly/3FQnpNu"
 images[0]="XXXXX"
