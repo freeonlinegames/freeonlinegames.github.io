@@ -344,7 +344,7 @@ urls[0]="https://bit.ly/3FQnpNu"
 images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/c24b778b7daba00c857c17fd76acc5c5.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
-images[0]="XXXXX"
+images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/635ec23c3948dff0df597c30ae7fd4bd.jfif"
 
 urls[0]="https://bit.ly/3FQnpNu"
 images[0]="XXXXX"
