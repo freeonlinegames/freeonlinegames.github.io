@@ -1,0 +1,58 @@
+<html><head><base target="_blank">
+   
+    <meta charset="utf8">
+    <link rel="stylesheet" href="https://749305726-194730583648829473.preview.editmysite.com/uploads/b/139890129-921259631279234729/files/style.css">
+  <style>
+button {
+  min-width: 100%;
+  font-family: inherit;
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  background: #2c2c2c;
+  color: #fff;
+  padding: 18px 46px;
+  font-size: 28px;
+  cursor: pointer;
+}
+button:hover {
+  background: #3f3f3f;
+}
+button:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px #cbd6ee;
+}
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+</style></head>
+ 
+  <body data-new-gr-c-s-check-loaded="14.1095.0" data-gr-ext-installed=""> 
+    <script src="https://749305726-194730583648829473.preview.editmysite.com/uploads/b/139890129-921259631279234729/files/UnityProgress.js"></script>
+    <script src="https://749305726-194730583648829473.preview.editmysite.com/uploads/b/139890129-921259631279234729/files/UnityLoader.js"></script>
+    <script type="text/javascript">
+      var gameInstance;
+      window.onload = function () {
+        let  bttn = document.createElement( "button" );
+        bttn.appendChild(document.createTextNode( "CLICK TO PLAY NOW" ));
+        bttn.setAttribute('id', 'run_game');
+        bttn.style.display = 'none';
+        bttn.style.position = 'absolute';
+        document.body.appendChild(bttn);  
+        bttn.style.display = 'block';
+        bttn.style.left = ((document.body.clientWidth - bttn.offsetWidth)/2) + 'px';
+        bttn.style.top = ((document.body.clientHeight - bttn.offsetHeight)/2) + 'px';
+        bttn.onclick = function () {
+          gameInstance = UnityLoader.instantiate("gameContainer", "https://749305726-194730583648829473.preview.editmysite.com/uploads/b/139890129-921259631279234729/files/BitLife.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
+          this.remove();
+        }
+      }
+    </script>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 100%; height: 100%; margin: 0px; padding: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"><canvas id="#canvas" style="width: 100%; height: 100%; cursor: default;" width="562" height="694"></canvas><div class="logo Dark" style="display: none;"></div><div class="progress Dark" style="display: none;"><div class="empty" style="width: 0%;"></div><div class="full" style="width: 100%;"></div></div></div>
+    </div>
+  
+<script src="blob:https://610577343-atari-embeds.googleusercontent.com/137fbcf3-bd9a-462e-95f2-57cb812f7eb7" id="541456bf9bae26f67dec7fed83472fb2"></script></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
