@@ -19,29 +19,17 @@ images[2]="https://tpc.googlesyndication.com/simgad/1789969310851979074"
 urls[3]="https://bit.ly/coolgames24h"
 images[3]="https://tpc.googlesyndication.com/simgad/9366757544641958545"
 
-urls[4]="https://bit.ly/coolgames24h"
-images[4]="https://tpc.googlesyndication.com/simgad/7326914814368110332"
-
-urls[5]="https://bit.ly/coolgames24h"
-images[5]="https://tpc.googlesyndication.com/simgad/12999649372533822255"
-
 urls[6]="https://bit.ly/coolgames24h"
 images[6]="https://tpc.googlesyndication.com/simgad/13251717775171343172"
 
 urls[7]="https://bit.ly/coolgames24h"
 images[7]="https://tpc.googlesyndication.com/simgad/4275921745662408610"
 
-urls[8]="https://bit.ly/coolgames24h"
-images[8]="https://tpc.googlesyndication.com/simgad/12070360924591750553"
-
 urls[9]="https://bit.ly/coolgames24h"
 images[9]="https://tpc.googlesyndication.com/simgad/6608791971983433472"
 
 urls[10]="https://bit.ly/coolgames24h"
 images[10]="https://tpc.googlesyndication.com/simgad/10721458219435068919"
-
-urls[11]="https://bit.ly/coolgames24h"
-images[11]="https://tpc.googlesyndication.com/simgad/7410094582388000341"
 
 urls[12]="https://bit.ly/coolgames24h"
 images[12]="https://tpc.googlesyndication.com/simgad/2726402640671061460"
@@ -97,9 +85,6 @@ images[28]="https://tpc.googlesyndication.com/simgad/3788465281437531093"
 urls[29]="https://bit.ly/coolgames24h"
 images[29]="https://tpc.googlesyndication.com/simgad/5304151464590164196"
 
-urls[30]="https://bit.ly/coolgames24h"
-images[30]="https://tpc.googlesyndication.com/simgad/6510411956387609396"
-
 urls[31]="https://bit.ly/coolgames24h"
 images[31]="https://tpc.googlesyndication.com/simgad/16523586939881832644"
 
@@ -108,9 +93,6 @@ images[32]="https://tpc.googlesyndication.com/simgad/13037975511151518605"
 
 urls[33]="https://bit.ly/coolgames24h"
 images[33]="https://tpc.googlesyndication.com/simgad/11920147396596383250"
-
-urls[34]="https://bit.ly/coolgames24h"
-images[34]="https://tpc.googlesyndication.com/simgad/16647224633297190282"
 
 urls[35]="https://bit.ly/coolgames24h"
 images[35]="https://tpc.googlesyndication.com/simgad/10149676208848943496"
@@ -121,9 +103,6 @@ images[36]="https://tpc.googlesyndication.com/simgad/13067539554534383394"
 urls[37]="https://bit.ly/coolgames24h"
 images[37]="https://tpc.googlesyndication.com/simgad/14017715298845440139"
 
-urls[38]="https://bit.ly/coolgames24h"
-images[38]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/40e8e10dd43e3be9cdbf4c32e1a225bc.png"
-
 urls[39]="https://bit.ly/coolgames24h"
 images[39]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/0b1e677c02a726763c044dfc2ad6e9fc.png"
 
@@ -133,17 +112,8 @@ images[40]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[41]="https://bit.ly/coolgames24h"
 images[41]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/b15abf0080d39782e8e7d450e0d74705.jfif"
 
-urls[42]="https://bit.ly/coolgames24h"
-images[42]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/5a8a57fd387c273b8ac9f6ca3e8f805e.jfif"
-
 urls[43]="https://bit.ly/coolgames24h"
 images[43]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/f820ef3a2df7eb2ef02b802426ed60eb.jfif"
-
-urls[44]="https://bit.ly/coolgames24h"
-images[44]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/806d700a19445959723fda1a6dc8dbc7.png"
-
-urls[45]="https://bit.ly/coolgames24h"
-images[45]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/8ea2e5c9622f4a1c381cc637eaeb0257.jfif"
 
 urls[46]="https://bit.ly/coolgames24h"
 images[46]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/faaefa8e3c353bd5f362feb8f7a13ae9.jfif"
@@ -181,23 +151,14 @@ images[56]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[57]="https://bit.ly/coolgames24h"
 images[57]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/54194aa8e390f7f209c99e5ad4927a6b.jfif"
 
-urls[58]="https://bit.ly/coolgames24h"
-images[58]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/dc961a44f1217aaf14db49e4e48271df.jfif"
-
 urls[59]="https://bit.ly/coolgames24h"
 images[59]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/5840baea925728a0c9826fe292e7bff0.jfif"
-
-urls[60]="https://bit.ly/coolgames24h"
-images[60]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/ad02d80224b2cb6483a6274b534d713e.jfif"
 
 urls[61]="https://bit.ly/coolgames24h"
 images[61]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/3cf894947f3de2336ad8296216fd2057.jfif"
 
 urls[62]="https://bit.ly/coolgames24h"
 images[62]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/80904bf95b96a2e849e1cb36116fc13b.jfif"
-
-urls[63]="https://bit.ly/coolgames24h"
-images[63]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/47bc496c3b9a8b0ba17ecb97ff2d9178.jfif"
 
 urls[64]="https://bit.ly/coolgames24h"
 images[64]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/fdeb9eb9d84a271dda6d05938e9ab460.jfif"
@@ -210,9 +171,6 @@ images[66]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 
 urls[67]="https://bit.ly/coolgames24h"
 images[67]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/192165517305e636abee920bad49273f.png"
-
-urls[68]="https://bit.ly/coolgames24h"
-images[68]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/e379e31a1b962ba8e39b16500117ec92.jfif"
 
 urls[69]="https://bit.ly/coolgames24h"
 images[69]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/88c12b7deb5ca67c198d4392a216c42d.jfif"
@@ -232,9 +190,6 @@ images[73]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[74]="https://bit.ly/coolgames24h"
 images[74]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/6a678f057138ff4a928a5a9193dbfe43.jfif"
 
-urls[75]="https://bit.ly/coolgames24h"
-images[75]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/46736308ca69fd787d53e85f39004ce0.png"
-
 urls[76]="https://bit.ly/coolgames24h"
 images[76]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/effbd2fc36b952d7009fa5bdace24a70.jfif"
 
@@ -253,32 +208,17 @@ images[80]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[81]="https://bit.ly/coolgames24h"
 images[81]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/495a3826262b1d1077ccb25095cad6c1.jfif"
 
-urls[82]="https://bit.ly/coolgames24h"
-images[82]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/dc8bfa481f328349c47c6aefed9146ec.jfif"
-
 urls[83]="https://bit.ly/coolgames24h"
 images[83]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/aaccaf4a9d32d1e9dd9f7efb0e4b763f.png"
 
-urls[84]="https://bit.ly/coolgames24h"
-images[84]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a288eab44a75f30ebbd2fab2d8f5f1ba.png"
-
-urls[85]="https://bit.ly/coolgames24h"
-images[85]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/295250063c957da4e5d0e84fd38c6948.jfif"
-
 urls[86]="https://bit.ly/coolgames24h"
 images[87]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/fe33e87a338635e228a5fd789e5ca16e.jfif"
-
-urls[88]="https://bit.ly/coolgames24h"
-images[88]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/7b44fab39703e195c7a5ba66b64a5b05.jfif"
 
 urls[89]="https://bit.ly/coolgames24h"
 images[89]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/3bc17f1ee1f65176ecd0d67fbf2d5ff7.jfif"
 
 urls[90]="https://bit.ly/coolgames24h"
 images[90]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/866dab9c112d76673e39957cba68604c.jfif"
-
-urls[91]="https://bit.ly/coolgames24h"
-images[91]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/4bf601febc38ace11514995332ceabb1.png"
 
 urls[92]="https://bit.ly/coolgames24h"
 images[92]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/f3751d6556686196092f9e96de441f22.jfif"
@@ -289,17 +229,11 @@ images[93]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[94]="https://bit.ly/coolgames24h"
 images[94]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/e2dbcb791852da62447771c3429bf4d0.jfif"
 
-urls[95]="https://bit.ly/coolgames24h"
-images[95]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/223bb0d4abeb5ca1e14b9d9d5444180f.jfif"
-
 urls[96]="https://bit.ly/coolgames24h"
 images[96]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/5feb01f6474a6d5320583856b976430c.jfif"
 
 urls[97]="https://bit.ly/coolgames24h"
 images[97]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/0db34f7f655be81e592ed4a84dbd8580.jfif"
-
-urls[98]="https://bit.ly/coolgames24h"
-images[98]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/867eb7da279dc1ffde18879d8964bd1b.png"
 
 urls[99]="https://bit.ly/coolgames24h"
 images[99]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/80f52916ec72d5a9814ad3c6617f33f4.png"
@@ -325,14 +259,8 @@ images[105]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fi
 urls[106]="https://bit.ly/coolgames24h"
 images[106]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/39a5c21f3358ab2efe605d2101813edd.jfif"
 
-urls[107]="https://bit.ly/coolgames24h"
-images[107]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/79a3d286fbd540f1f746bbafeea12603.png"
-
 urls[108]="https://bit.ly/coolgames24h"
 images[108]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/a3716da7fe654e7fe126819696093ea9.jfif"
-
-urls[109]="https://bit.ly/coolgames24h"
-images[109]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/3ede4db12b0744f49c1293957564f7f6.jfif"
 
 urls[110]="https://bit.ly/coolgames24h"
 images[110]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/00f0276f96311d4c95add1a65a4018cc.jfif"
@@ -340,14 +268,8 @@ images[110]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fi
 urls[111]="https://bit.ly/coolgames24h"
 images[111]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/70ee65e335225b4f64632936966225b2.jfif"
 
-urls[112]="https://bit.ly/coolgames24h"
-images[112]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/c24b778b7daba00c857c17fd76acc5c5.jfif"
-
 urls[113]="https://bit.ly/coolgames24h"
 images[114]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/635ec23c3948dff0df597c30ae7fd4bd.jfif"
-
-urls[115]="https://bit.ly/coolgames24h"
-images[0]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/8ee29cd1534eabc779509e741e135364.png"
 
 urls[116]="https://bit.ly/coolgames24h"
 images[116]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/7c3968b2a10feaaefcdda87bfaba19b2.png"
