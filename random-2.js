@@ -28,7 +28,7 @@ images[5]="https://tpc.googlesyndication.com/simgad/16647224633297190282"
 urls[6]="https://coolgames24h.blogspot.com/2023/01/apple-knight.html"
 images[6]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/40e8e10dd43e3be9cdbf4c32e1a225bc.png"
 
-urls[7]="https://bit.ly/coolgames24h"
+urls[7]="https://coolgames24h.blogspot.com/2022/12/party-toons.html"
 images[7]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/5a8a57fd387c273b8ac9f6ca3e8f805e.jfif"
 
 urls[8]="https://coolgames24h.blogspot.com/2023/01/blumgi-ball.html"
@@ -70,7 +70,7 @@ images[19]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[20]="https://coolgames24h.blogspot.com/2022/12/duo-survival-3.html"
 images[20]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/223bb0d4abeb5ca1e14b9d9d5444180f.jfif"
 
-urls[21]="https://coolgames24h.blogspot.com/2023/02/sugar-sugar.html"
+urls[21]="https://coolgames24h.blogspot.com/2023/01/sugar-sugar.html"
 images[21]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/867eb7da279dc1ffde18879d8964bd1b.png"
 
 urls[22]="https://coolgames24h.blogspot.com/2023/01/blumgi-castle.html"
