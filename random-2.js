@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=25
+var totallinks=26
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
@@ -84,6 +84,9 @@ images[24]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 
 urls[25]="https://coolgames24h.blogspot.com/2023/01/kiwi-clicker.html"
 images[25]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/8ee29cd1534eabc779509e741e135364.png"
+
+urls[26]="https://coolgames24h.blogspot.com/2023/01/crazy-cars.html"
+images[26]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/8961782aa2bc9f49e2dac04d42a587c0.jfif"
 
 var randomgame=Math.floor(Math.random()*totallinks)
 var randomgame2=Math.floor(Math.random()*totallinks)
