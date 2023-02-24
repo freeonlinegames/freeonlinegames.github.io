@@ -79,7 +79,7 @@ images[22]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit
 urls[23]="https://unblockedgameszone.blogspot.com/2022/12/duo-vikings.html"
 images[23]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/3ede4db12b0744f49c1293957564f7f6.jfif"
 
-urls[24]="https://unblockedgameszone.blogspot.com/2022/06/subway-surfers-world-tour-singapore.html"
+urls[24]="https://unblockedgameszone.blogspot.com/2022/06/subway-surfers-singapore.html"
 images[24]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/c24b778b7daba00c857c17fd76acc5c5.jfif"
 
 urls[25]="https://unblockedgameszone.blogspot.com/2023/01/kiwi-clicker.html"
