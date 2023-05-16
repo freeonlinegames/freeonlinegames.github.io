@@ -1,7 +1,7 @@
 //** Text ad script by Petalia.org **//
 
 //specify total # of random links
-var totallinks=117
+var totallinks=89
 
 var urls=new Array(totallinks)
 var images=new Array(totallinks)
@@ -266,7 +266,7 @@ urls[85]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot
 images[85]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/e2dbcb791852da62447771c3429bf4d0.jfif"
 
 urls[86]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F&sa=D&sntz=1&usg=AOvVaw3IeDHBJEZ0nMk27ZAsVwuP"
-images[87]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/fe33e87a338635e228a5fd789e5ca16e.jfif"
+images[86]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/fe33e87a338635e228a5fd789e5ca16e.jfif"
 
 urls[87]="https://www.google.com/url?q=https%3A%2F%2Funblockedgameszone.blogspot.com%2F&sa=D&sntz=1&usg=AOvVaw3IeDHBJEZ0nMk27ZAsVwuP"
 images[87]="https://ads.poki.com/cdn-cgi/image/quality=78,f=auto,w=160,h=600,fit=cover/creatives/3bc17f1ee1f65176ecd0d67fbf2d5ff7.jfif"
